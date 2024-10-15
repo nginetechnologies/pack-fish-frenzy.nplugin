@@ -1,0 +1,12 @@
+{
+    "24b74ecc-a8a4-4b07-86fd-3405f55b4ccf": {
+        "assetTypeGuid": "926268b2-2d45-4c52-87c9-d76815217359",
+        "path": "Package.nplugin",
+        "name": "Fish Frenzy Assets"
+    },
+    "c67d391c-5cbb-c9bb-c916-554e4bd5d3bd": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Fish_Frenzy_Thumb.tex.nasset"
+    },
+    "guid": "e33a0332-3979-69ff-6939-9f7d155fe9fe"
+}
